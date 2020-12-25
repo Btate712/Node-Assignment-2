@@ -1,0 +1,15 @@
+{
+  "name": "node_exercise_2",
+  "version": "1.0.0",
+  "description": "Solution to assignment 2 from Max Schwarzmuller's NodeJS course on Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Tate",
+  "license": "ISC",
+  "start": "nodemon app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
